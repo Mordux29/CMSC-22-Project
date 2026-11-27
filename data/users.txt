@@ -1,0 +1,4 @@
+manager|manager123|Manager||
+Karl|karl123|Clerk|0912 345 6789|Bay, Laguna
+Jared|jared123|Clerk|0998 765 4321|Umali Subd.
+Ben|ben123|Clerk|0969 555 6767|Demarces

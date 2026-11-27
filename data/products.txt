@@ -1,0 +1,40 @@
+Pork|P002|Pork Adobo Cut|Ready-cut pork pieces, perfect for classic Filipino adobo.|439.76|kg|5
+Pork|P003|Pork Chop|Juicy pork chops, ideal for frying, grilling, or pan-searing.|484.76|kg|5
+Pork|P004|Pork Menudo Cut|Conveniently cubed pork, perfect for menudo and other hearty stews.|444.76|kg|5
+Pork|P005|Pork Sinigang Cut|Flavorful bone-in pork cuts, perfect for a warm bowl of sinigang.|319.76|kg|5
+Pork|P006|Pork Spare Ribs|Meaty pork ribs, great for grilling, barbecue, and hearty soups.|514.76|kg|5
+Pork|P007|Pork Steak|Tender pork slices, perfect for pan-frying and grilling.|434.76|kg|5
+Pork|P008|Pork Pata|Pork leg with skin and bone, ideal for crispy pata and pata tim.|364.76|kg|5
+Pork|P009|Pork Kasim|Flavorful pork shoulder with just the right balance of meat and fat, great for stews and everyday cooking.|424.76|kg|5
+Pork|P010|Pork Loin|Lean and tender pork, perfect for roasting, grilling, and frying.|474.76|kg|5
+Pork|P011|Pork Kaldereta|Conveniently cut pork pieces, ready for your favorite kaldereta recipe.|344.76|kg|5
+Pork|P012|Pork Pigue|Lean pork from the hind leg, perfect for tocino, adobo, and other savory dishes.|399.76|kg|5
+Pork|P013|Pork Tenderloin|Exceptionally tender and lean pork, perfect for roasting, grilling, and stir-frying.|514.76|kg|5
+Pork|P014|Pork Pig Tail|Flavorful pork tail, great for soups, stews, and traditional Filipino dishes.|344.76|kg|5
+Pork|P015|Pork BBQ Slice|Ready-to-marinate pork slices, perfect for homemade Filipino barbecue.|444.76|kg|5
+Beef|P016|Beef Sirloin|Tender and flavorful beef, perfect for steaks, grilling, and pan-searing.|774.76|kg|5
+Beef|P017|Beef Ground|Fresh ground beef, ideal for burgers, meatballs, and your favorite beef recipes.|759.76|kg|5
+Beef|P018|Beef Shank|Rich, meaty beef shank, perfect for bulalo, soups, and slow-cooked dishes.|669.76|kg|5
+Beef|P019|Beef Kaldereta Cut|Conveniently cut beef pieces, ready for hearty kaldereta and stews.|419.76|kg|5
+Beef|P020|Beef Short Ribs|Meaty and flavorful ribs, perfect for grilling, braising, and slow cooking.|429.76|kg|5
+Beef|P021|Beef Tenderloin|Exceptionally tender beef, ideal for premium steaks and special meals.|1014.76|kg|5
+Beef|P022|Beef Shoulder Blade|Flavorful beef cut, perfect for braising, stews, and slow-cooked dishes.|564.76|kg|5
+Beef|P023|Beef Porter House|Premium bone-in steak featuring tenderloin and strip steak in one cut.|759.76|kg|5
+Beef|P024|Beef T-Bone Steak|Classic bone-in steak combining tenderloin and strip steak for a flavorful meal.|859.76|kg|5
+Beef|P025|Beef Chuck Ribs|Rich and meaty beef ribs, perfect for slow cooking, braising, and grilling.|624.76|kg|5
+Beef|P026|Beef Brisket|Rich and flavorful beef, ideal for slow cooking, roasting, and barbecue.|564.76|kg|5
+Beef|P027|Beef Prime Rib Steak|Well-marbled beef steak, perfect for grilling and special occasions.|719.76|kg|5
+Beef|P028|Beef Knee Cap|Rich in connective tissue and flavor, perfect for slow-cooked soups and broths.|619.52|kg|5
+Chicken|P029|Whole Chicken|Fresh whole chicken, perfect for roasting, frying, and family meals.|429.5|kg|3
+Chicken|P030|Chicken Breast|Lean and versatile chicken breast, ideal for grilling, frying, and healthy meals.|294.76|kg|3
+Chicken|P031|Chicken Quarter Leg|Juicy chicken thigh and drumstick in one cut, perfect for roasting and grilling.|224.76|kg|3
+Chicken|P032|Chicken Thigh|Tender and juicy chicken meat, great for frying, grilling, and everyday meals.|224.76|kg|3
+Chicken|P033|Chicken Drumstick|Flavorful chicken drumsticks, perfect for frying, roasting, and barbecue.|254.76|kg|3
+Chicken|P034|Chicken Wings|Juicy chicken wings, ideal for frying, baking, and grilling.|254.76|kg|3
+Chicken|P035|Chicken Neck|Flavorful bone-in chicken neck, perfect for soups and traditional dishes.|164.76|kg|3
+Chicken|P036|Ground Chicken|Fresh ground chicken, ideal for patties, meatballs, and homemade recipes.|379.76|kg|3
+Chicken|P037|Chicken Adobo Cut|Ready-cut chicken pieces, perfect for classic Filipino adobo.|229.76|kg|3
+Chicken|P038|Chicken Tinola Cut|Conveniently cut chicken pieces, perfect for a comforting bowl of tinola.|299.76|kg|3
+Chicken|P039|Chicken Kaldereta Cut|Ready-cut chicken pieces, ideal for hearty chicken kaldereta.|134.76|kg|3
+Egg|P040|Brown Eggs Large 12 pcs|A dozen large brown eggs, perfect for breakfast, baking, and everyday cooking.|189.75|pieces|30|Large|12
+Egg|P041|Brown Eggs Large 6 pcs|Six large brown eggs, perfect for breakfast and everyday cooking.|104.75|pieces|30|Large|6
